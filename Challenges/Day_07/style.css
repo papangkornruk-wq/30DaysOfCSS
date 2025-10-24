@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #113422;
+  background-color: #6da4e7;
 }
 
 .button {
@@ -25,7 +25,7 @@ body {
   font-size: 15px;
   color: white;
   font-weight: bolder;
-  background-color: #487027;
+  background-color: #332770;
   border-radius: 10px;
 }
 
@@ -37,7 +37,7 @@ body {
   right: 0;
   top: 0;
   bottom: 0;
-  background: linear-gradient(to right,  #316F3D, #4EB071);
+  background: linear-gradient(to right,  #1a1b4f, #331e57);
   border-radius: 20px;
   transition: all .3s ease-in-out;
 }
